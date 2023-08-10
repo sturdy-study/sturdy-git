@@ -3,9 +3,16 @@
 - 스터디 진행 : 과제형식 (Git CLI)
 
 ## 진행
-- 과제를 풀면서 정리하는 것.
-- 따라서 따로 만나서 얘기하는 시간은 없습니다.
-- 조건) **무조건!** CLI로만 해결하기!
-- 문제는 운영자인 제가(김재준) 만들거지만, 좋은 케이스가 있다면 직접 문제를 내주셔도 됩니다.
-- Git conflict가 날 수 있는 문제는 '개인repo'를 생성하여 연습해주세요ㅠㅠ
+- 과제형식으로 진행됩니다.
+- CLI로만 진행하는 것을 원칙으로 합니다.
+- 해당 repo는 upstream에 등록해주시고, 실제 브랜치 생성하여 과제진행하시는 것은 개인repo에서 진행해주세요.
+
+## 진행 순서
+1. git flow cli, git stream, git request-pull, git log, git stash
+2. rebase
+3. commit (amend, 내역불러오기, commit수정하기), cherry pick
+4. git reset, git revert
+5. merge, do not fast forward, squash
+6. git abort, git rm -r
+7. conflict resolve
 
